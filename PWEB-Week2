@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profil Saya</title>
+</head>
+<body>
+    <!-- Heading -->
+    <h1>Profil Mahasiswa</h1>
+
+    <!-- Paragraf -->
+    <p class="justified-paragraph">Halo! Nama saya <b>Fathiya Nayla Husna Wibowo</b>. Saya seorang mahasiswa jurusan Teknik Informatika 
+    yang selalu mencari kesempatan untuk mengembangkan diri. Saya memiliki berbagai pengalaman organisasi
+    dalam bidang seni dan seorang freelancer gambar. Saat ini, saya sedang belajar pada pengembangan web dan pemrograman.</p>
+    
+
+    <!-- Gambar -->
+    <img src="https://pbs.twimg.com/media/Gzu9j7ZbYAAg-r9?format=jpg&name=large" alt="Foto Profil" width="200">
+
+    <!-- List -->
+    <h2>Hobi Saya:</h2>
+    <ul>
+        <li>Digital drawing</li>
+        <li>Olahraga</li>
+        <li>Koding</li>
+    </ul>
+
+    <!-- Tabel -->
+    <h2>Pendidikan</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Tahun</th>
+            <th>Sekolah</th>
+            <th>Jurusan</th>
+        </tr>
+        <tr>
+            <td>2021 - 2024</td>
+            <td>SMA Negeri  90 Jakarta</td>
+            <td>MIPA</td>
+        </tr>
+        <tr>
+            <td>2024 - Sekarang</td>
+            <td>Institut Teknologi Sepuluh Nopember</td>
+            <td>Teknik Informatika</td>
+        </tr>
+    </table>
+
+        <!-- Tabel -->
+    <h2>Pengalaman Organisasi</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Tahun</th>
+            <th>Nama Organisasi</th>
+        </tr>
+        <tr>
+            <td>2022 - 2023</td>
+            <td>English Club</td>
+        </tr>
+        <tr>
+            <td>2023 - 2024</td>
+            <td>Ninety Cup</td>
+        </tr>
+        <tr>
+            <td>2025 - 2026</td>
+            <td>Schematics</td>
+        </tr>
+    </table>
+
+    <!-- Form -->
+    <h2>Form pendaftaran teman</h2>
+    <form>
+        <label>Nama:</label><br>
+        <input type="text" name="nama"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" name="email"><br><br>
+
+        <label>Hobi:</label><br>
+        <textarea name="Hobi" rows="4" cols="30"></textarea><br><br>
+
+        <input type="submit" value="Kirim">
+    </form>
+
+    <!-- Link -->
+    <p>Kunjungi <a href="https://github.com/artificialangel">GitHub</a> saya untuk melihat project.</p>
+</body>
+</html>
