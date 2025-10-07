@@ -16,4 +16,4 @@ Week-4
 
 Week-5
 
-Week-6
+[Week-6](https://github.com/artificialangel/PWEB_B-Fathiya/tree/8ba9b31c5d53a522ea07ee24af93424299734f27/Week-6)
