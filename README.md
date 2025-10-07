@@ -1,7 +1,7 @@
 # Pemrogaman Berbasis Web B
 
 Nama    : Fathiya Nayla Husna Wibowo
-NRP     : 5025241204
+\nNRP     : 5025241204
 
 ## Pertemuan
 
