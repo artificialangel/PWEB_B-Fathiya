@@ -20,7 +20,6 @@ Aplikasi ini digunakan untuk mengelola data siswa, meliputi:
 - Hapus data siswa
 - Upload foto profil siswa
 
-### 2. Studi Kasus News Portal
-
-
 ## Dokumentasi
+
+![foto](FOTOSISWA.gif)
