@@ -2,7 +2,7 @@
 | ---            | ---        | ----------|
 | Fathiya Nayla Husna Wibowo | 5025241204 | B |
 
-# Minggu 12: CRUD
+# Minggu 12: Arsitektur Aplikasi Web
 ## Penjelasan Latihan
 ### **1. STUDI KASUS: Aplikasi Manajemen Data Siswa**
 #### Aplikasi Manajemen Data Siswa Berbasis Web (CRUD + Upload Foto)
