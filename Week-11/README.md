@@ -9,3 +9,4 @@ Minggu 11 kami diminta untuk mengerjakan studi kasus [Laundry Crafty](https://dr
 
 ## Dokumentasi
 
+![Laundry CRUD](LAUDRY.gif)
